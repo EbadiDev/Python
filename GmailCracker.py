@@ -10,7 +10,7 @@ print'''
 '''
 username = raw_input("Enter Gmail Account (Ex:07.is.hatless) : ")
 i=0
-fp=open("pas.txt","r")
+fp=open("pass.txt","r")
 
 while 1:    
     try:
